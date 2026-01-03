@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m **Siddhartha Lamichhane**
 
-🚀 **Fresher Software Developer | MERN Stack | Python & DSA Learner**
+🚀 **Software Developer | MERN Stack | Python & DSA Learner**
 I build clean, functional web applications and constantly sharpen my problem‑solving skills.
 
 ---
