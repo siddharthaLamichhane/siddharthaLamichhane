@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**siddharthaLamichhane/siddharthaLamichhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Siddhartha Lamichhane**  
 
-Here are some ideas to get you started:
+🌱 Currently learning and improving my skills in programming  
+💻 Interested in software development and problem solving  
+🚀 Exploring new technologies step by step  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- C++
+- Python
+- Basics of Data Structures & Algorithms
+- Problem Solving
+
+### 🎯 Goals
+- Build strong programming fundamentals  
+- Grow into an advanced developer  
+- Work on meaningful projects  
+
+### 📫 Connect with me
+- GitHub: @siddharthaLamichhane  
+
+Thanks for visiting my profile 🙂
