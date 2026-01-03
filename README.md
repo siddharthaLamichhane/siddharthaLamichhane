@@ -17,7 +17,4 @@ I’m **Siddhartha Lamichhane**
 - Grow into an advanced developer  
 - Work on meaningful projects  
 
-### 📫 Connect with me
-- GitHub: @siddharthaLamichhane  
-
 Thanks for visiting my profile 🙂
